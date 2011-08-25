@@ -1,0 +1,20 @@
+Blacklist de empresas de TI
+==============================
+
+Vamos listar aqui todas as empresas de TI que conhecemos. Não se preocupem com
+eles descobrirem quem você é: se a empresa for ruim, ela não deve saber nem
+instalar o Git. Se ela for boa, ela descobrirá que você falou bem dela depois de
+ler uns dois papers sobre histórico de arquivos no Git e lhe agradecerá pelo
+elogio.
+
+
+Como funciona
+--------------
+
+Procure o arquivo com o nome da sua cidade neste diretório. Ela deverá estar com
+o padrão "Cidade.Estado.mkd". Escreva o que quiser, só não apague o comentário
+dos outros, e me mande um pull request. Se seu patch for livre de trollagens,
+ele será aplicado.
+
+Protip: você pode editar o arquivo aqui mesmo no Github, sem precisar instalar
+nada na sua máquina.
